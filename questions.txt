@@ -1,0 +1,27 @@
+What is internet?
+It is a network of networks that comprises private, public, academic, business, and government networks of local to global scope, linked by electronic, wireless, and optical networking technologies.
+
+How does the internet work?
+The Internet is a network of networks. It works by using a technique called packet switching, and by relying on standardized networking protocols that all computers can interpret.
+
+What is a domain name?
+A domain name is the human-readable address you enter in a web browser to access a specific website.
+
+What is a dns and how does it work?
+The Domain Name System (DNS) is the phonebook of the Internet. Humans access information online through domain names, like nytimes.com or espn.com.
+Web browsers interact through Internet Protocol (IP) addresses. DNS translates domain names to IP addresses so browsers can load Internet resources.
+
+What is a browser and what does it do?
+A web browser is a software application that allows users to access, retrieve, and view content on the World Wide Web, acting as a gateway between the user and the internet.
+
+What is a markup language?
+A markup language is a text-encoding system which specifies the structure and formatting of a document and potentially the relationships among its parts.
+
+What is frontend development?
+Front-end development refers to the creation of the user interface (UI) and the client-side of websites or web applications.
+
+What is http?
+HTTP (Hypertext Transfer Protocol) is a fundamental protocol of the Internet, enabling the transfer of data between a client and a server. It is the foundation of data communication for the World Wide Web.
+
+What is the web?
+The web, or World Wide Web (WWW), is a vast collection of interconnected documents and resources accessed via the internet.
